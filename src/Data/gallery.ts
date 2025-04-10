@@ -1,0 +1,46 @@
+const galleryData=[
+    {
+        name:"MSP_0769.JPG",
+    },
+    {
+        name:"MSP_0822.JPG",
+    },
+    {
+        name:"MSP_0954.JPG",
+    },
+    {
+        name:"MSP_0981.JPG",
+    },
+    {
+        name:"MSP_1023.JPG",
+    },
+    {
+        name:"MSP_1173.JPG",
+    },
+    {
+        name:"MSP_1239.JPG",
+    },
+    {
+        name:"MSP_1304.JPG",
+    },
+    {
+        name:"MSP_0907.JPG",
+    },
+    {
+        name:"MSP_1381.JPG",
+    },
+    {
+        name:"MSP_0845.JPG",
+    },
+    {
+        name:"MSP_0817.JPG",
+    },
+    {
+        name:"MSP_1194.JPG",
+    },
+    {
+        name:"MSP_1117.JPG",
+    },
+   
+]
+export default galleryData
